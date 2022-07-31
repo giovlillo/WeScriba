@@ -34,8 +34,8 @@ It is necessary to customize the following files:
 
 Promo video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/N68LUwZMcg0/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=N68LUwZMcg0 "Wescriba - English")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/N68LUwZMcg0/0.jpg)](http://www.youtube.com/watch?v=N68LUwZMcg0 "Wescriba - English")
 
 User Interface
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZloUA6DVwuM/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=ZloUA6DVwuM "User Interface")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZloUA6DVwuM/0.jpg)](ttps://www.youtube.com/watch?v=ZloUA6DVwuM "User Interface")
