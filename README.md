@@ -33,7 +33,7 @@ It is necessary to customize the following files:
 # Video
 
 Promo video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N68LUwZMcg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/N68LUwZMcg0/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=N68LUwZMcg0 "Wescriba - English")
 
 User Interface
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZloUA6DVwuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZloUA6DVwuM/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=ZloUA6DVwuM "User Interface")
